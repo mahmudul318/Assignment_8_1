@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	padding:0;
+}
+.header, .hero, .body, .bar, .footer{
+	background: teal;
+	margin-bottom: 10px;
+}
+.box{
+	min-height: 80px;
+	background: red;
+	margin: 10px 0;
+	font-size: 30px;
+	color: #fff;
+	text-align: center;
+	line-height: 80px;
+}
+.three{
+	background: blue;
+}
+.five{
+	background: yellow;
+}
